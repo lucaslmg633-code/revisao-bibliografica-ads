@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `[Analise e Desenvolvimento de Sistemas - Design Profissional]`
 - Professor ou orientador: `[Isabella]`
 - Grupo: `[02]`
-- Integrantes: `[Lucas Matos Gomes - Victor Luiz Silva Rosa de Jesus - Kelvin Gama de Souza]`
+- Integrantes: `[Lucas Matos Gomes - Kelvin Gama de Souza]`
 - Data de início: `[24/09/2026]`
 
 
